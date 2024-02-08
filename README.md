@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyanssoni
-- 👀 I’m interested in Web Develpoment and a bit of designing as well.
-- 🌱 I’m currently learning back-end development.
+- 👀 I’m interested in Artificial Intelligence, Web Development, Low-Level ... eh basically Programming is <3
+- 🌱 I’m currently learning new tech to ace in industry. 
 
 <!---
 shreyanssoni/shreyanssoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
